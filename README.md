@@ -1,0 +1,1 @@
+Developed a comprehensive ContactMaster project using Java and MySQL, leveraging JDBC for seamless connectivity. Designed to efficiently store, manage, and restore contact details, including names, contact numbers, addresses, and emails, demonstrating strong proficiency in Java programming and database integration.
